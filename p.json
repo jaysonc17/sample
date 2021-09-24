@@ -1,0 +1,27 @@
+[ {
+	"id": 1,
+    "name": "My P1",
+    "dateCreated": "2021-09-24",
+    "enabled": true,
+    "balance": 8000,
+	"communications": [ {
+		"type": "Telephone",
+		"value": "61412345678"
+	}, {
+		"type": "Email",
+		"value": "123@abc.com"
+	} ]
+}, {
+	"id": 2,
+    "name": "My P2",
+    "dateCreated": "2021-09-25",
+    "enabled": true,
+    "balance": 9000,
+	"communications": [ {
+		"type": "Telephone",
+		"value": "61412345679"
+	}, {
+		"type": "Email",
+		"value": "123@test.com"
+	} ]
+} ]
